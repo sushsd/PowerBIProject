@@ -1,4 +1,1 @@
-It is  a dashboard which contains a monthly sales pattern of Pizza Sales.
-This report has two parts, one dashboard is home and another is best/worst seller.
-The home dashboard contains various trends such as total order, total revenue,pizza sales interms of category,size that is represented in various charts such as donut charts,bar charts, column charts.
-The best/worst seller contains top 5 pizza best sellers and worst sellers interms of revenue,quantity and total orders.
+The dashboard comprises two sections: "Home" and "Best/Worst Seller". The "Home" dashboard showcases monthly sales patterns of pizzas, including total orders, revenue, and sales breakdown by category and size, depicted through intuitive charts like donut, bar, and column charts. On the other hand, the "Best/Worst Seller" section highlights the top 5 best and worst performing pizzas based on revenue, quantity, and total orders.
